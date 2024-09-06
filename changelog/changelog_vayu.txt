@@ -1,7 +1,6 @@
 ~ Build Specifications ~
 
+September-06-2024
 - Trees updated 
-- Fixed Wallpaper style crashing
-- Fixed camera crashing 
-- Added ksu
-- Bring back display Saturated mode (fixes Yellow display color)
+- Kernel Updated
+- August Sec Patch
